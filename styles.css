@@ -37,7 +37,7 @@ body{
 #sobre{ 
     width: 880px;
     padding: 15px 10px;
-    background-color: white;   
+    background-color: #fdfbed ;   
 }
 
 .titulo{
@@ -55,4 +55,9 @@ body{
     width: 640px;
     height: 425px;
     border: 10px solid #d2d2c0;
+}
+
+.contato{
+    margin-top: 1em;
+    font-weight: bold;
 }
